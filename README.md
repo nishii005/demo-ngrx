@@ -1,3 +1,6 @@
+# what is NGRX
+NGRX is a group of libraries “inspired” by the Redux pattern which in turn is “inspired” by the Flux pattern.
+
 # DemoNgrx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
